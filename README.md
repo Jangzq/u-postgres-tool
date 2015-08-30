@@ -1,5 +1,5 @@
 #u-postgres-tool 
-u-postgres-tool是一个postgresql数据库维护工具，使用python开发。对于heap buffer, xlog, clog, multixact, sub transaction, control file, heap tuple等等postgresql元素提供封装，并提供遍历方法，为丢失数据恢复等操作提供API支持。
+u-postgres-tool是一个postgresql数据库维护工具，使用python开发。对于heap buffer, xlog, clog, multixact, sub transaction, control file, heap tuple等等postgresql元素提供封装，并提供遍历方法，为丢失数据恢复等操作提供API支持。由于利用业余时间开发，目前还没有开发完成。
 
 ##Copyright and License
 This software is licensed under the BSD license.
